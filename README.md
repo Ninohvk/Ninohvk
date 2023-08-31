@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ninohvk
 - 👀 I’m interested in web programming, front and backend
-- 🌱 I’m currently learning react
 - I must admit, i ❤️ JS
